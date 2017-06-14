@@ -6,11 +6,14 @@ A funnel plot is expected to have many attributes, some MUST (mandatory), some S
 
 |  |  |  |
 | ------------- | -- | -------- |
-|  | Header |  |
-| x | Plot_Top | x |
+| | Header | |
+| | Plot_Top | |
 | Plot_Left  | Plot  | Plot_Right |
-| x | Plot_Bottom  | x |
-| x | Footer | x |
+| | Plot_Bottom  | |
+| | Footer | |
+
+
+
 
 
 

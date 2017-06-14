@@ -4,13 +4,13 @@ A funnel plot is expected to have many attributes, some MUST (mandatory), some S
 
 ## Structure of a typical plot:
 
-| ------------- | -------- |
-| Header |
-| Plot_Top |
+| ------------- | -- | -------- |
+| x | Header | x |
+| x | Plot_Top | x |
 | Plot_Left  | Plot  | Plot_Right |
-| Plot_Bottom  |
-| Footer
-| ------------- | -------- |
+| x | Plot_Bottom  | x |
+| x | Footer | x |
+| -------------| -- | -------- |
 
 
 

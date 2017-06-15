@@ -1,7 +1,7 @@
-DOI,serial_no,author_num,author_title,notes
-10.1186_s12885-016-2685-3.pdf,1,Fig. 4, Filled funnel plot of log relative risk vs. standard error of log relative risks,
-10.1186_s12889-016-3083-0.pdf,1,,,
-10.1186_s13027-016-0058-9.pdf,1,,,
+DOI,serial_no,author_num,plot,chars,author_title,notes
+10.1186_s12885-016-2685-3.pdf,1,Fig. 4, Vector,codepoints Filled funnel plot of log relative risk vs. standard error of log relative risks,
+10.1186_s12889-016-3083-0.pdf,1,,,,,
+10.1186_s13027-016-0058-9.pdf,1,,,,,
 10.1186_s40064-016-3064-x.pdf,1,,,
 10.1515_med-2016-0052.pdf,1,,,
 10.1515_med-2016-0099.pdf,1,,,

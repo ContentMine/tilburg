@@ -1,31 +1,31 @@
-DOI,nfunnel,
-10.1186_s12885-016-2685-3.pdf,1,
-10.1186_s12889-016-3083-0.pdf,1,
-10.1186_s13027-016-0058-9.pdf,,
-10.1186_s40064-016-3064-x.pdf,,
-10.1515_med-2016-0052.pdf,,
-10.1515_med-2016-0099.pdf,,
-10.1590_S1518-8787.2016050006236.pdf,,
-10.21053_ceo.2016.9.1.1.pdf,,
-10.2147_AMEP.S116699.pdf,,
-10.2147_BCTT.S94617.pdf,,
-10.2147_NDT.S125367.pdf,1,
-10.2147_NDT.S126356.pdf,,
-10.2147_OTT.S101858.pdf,,
-10.2147_OTT.S104775.pdf,,
-10.2147_OTT.S106345.pdf,,
-10.2147_OTT.S107595.pdf,,
-10.2147_OTT.S109540.pdf,,
-10.2147_OTT.S118481.pdf,,
-10.2147_OTT.S122774.pdf,,
-10.2147_OTT.S124417.pdf,,
-10.2147_OTT.S94348.pdf,3,
-10.2147_OTT.S95258.pdf,,
-10.2147_OTT.S97436.pdf,,
-10.2147_OTT.S98923.pdf,,
-10.2147_OTT.S99713.pdf,,
-10.3349_ymj.2016.57.5.1260.pdf,,
-10.3390_ijerph13050458.pdf,,
-10.3961_jpmph.16.037.pdf,,
-10.5114_aoms.2016.61916.pdf,,
-10.5812_ircmj.40061.pdf,,
+DOI,nfunnel,processable,notes
+10.1186_s12885-016-2685-3.pdf,1,OK,multiple symbols
+10.1186_s12889-016-3083-0.pdf,1,OK,background
+10.1186_s13027-016-0058-9.pdf,1,OK,
+10.1186_s40064-016-3064-x.pdf,3,OK,Codepoints+Outline Font varying symbol sizes
+10.1515_med-2016-0052.pdf,3,OK,
+10.1515_med-2016-0099.pdf,4,OK,
+10.1590_S1518-8787.2016050006236.pdf,1,OK,
+10.21053_ceo.2016.9.1.1.pdf,4,OK,
+10.2147_AMEP.S116699.pdf,1,OK??,No obvious points
+10.2147_BCTT.S94617.pdf,1,OK,
+10.2147_NDT.S125367.pdf,1,NO,Legacy chars and png
+10.2147_NDT.S126356.pdf,1,NO,Legacy
+10.2147_OTT.S101858.pdf,9,NO,Legacy Bitmap
+10.2147_OTT.S104775.pdf,2,NO,Legacy Bitmap suppdata
+10.2147_OTT.S106345.pdf,4,NO,Bitmap
+10.2147_OTT.S107595.pdf,2,NO,Bitmap
+10.2147_OTT.S109540.pdf,1,NO,Bitmap
+10.2147_OTT.S118481.pdf,3,NO,Bitmap varying symbol sizes
+10.2147_OTT.S122774.pdf,1,NO,Bitmap
+10.2147_OTT.S124417.pdf,3,NO,Bitmap
+10.2147_OTT.S94348.pdf,3,NO,Bitmap plot
+10.2147_OTT.S95258.pdf,3,NO,Bitmap plot
+10.2147_OTT.S97436.pdf,1,NO,Bitmap plot
+10.2147_OTT.S98923.pdf,1,NO,Bitmap plot
+10.2147_OTT.S99713.pdf,1,NO,Bitmap black background
+10.3349_ymj.2016.57.5.1260.pdf,2,OK,
+10.3390_ijerph13050458.pdf,1,OK,
+10.3961_jpmph.16.037.pdf,2,NO,Bitmap
+10.5114_aoms.2016.61916.pdf,2,OK,
+10.5812_ircmj.40061.pdf,1,OK,

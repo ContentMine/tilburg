@@ -3,7 +3,7 @@
  <g>
   <g stroke="pink">
    <path id="path4739" stroke-width="0.0" fill="#000000" clip-path="url(#clipPath1)" stroke="black" signature="MLCLLLCL" d="M60.718 360.835 L59.981 360.722 C58.423 360.549 56.941 359.01 56.749 357.49 L56.693 356.81 L56.92 356.81 L56.976 357.433 C57.237 359.017 58.462 360.211 60.038 360.495 L60.718 360.552 "/>
-   <path id="path4741" stroke-width="0.0" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="MLCLLLCL" d="M60.718 360.835 L59.981 360.722 C58.423 360.549 56.941 359.01 56.749 357.49 L56.693 356.81 L56.92 356.81 L56.976 357.433 C57.237 359.017 58.462 360.211 60.038 360.495 L60.718 360.552 "/>
+   <path id="path4741" d="M60.718 360.835 L59.981 360.722 C58.423 360.549 56.941 359.01 56.749 357.49 L56.693 356.81 L56.92 356.81 L56.976 357.433 C57.237 359.017 58.462 360.211 60.038 360.495 L60.718 360.552 " stroke-width="0.0" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="MLCLLLCL"/>
    <path id="path4813" stroke-width="0.0" fill="#d4d4d4" clip-path="url(#clipPath1)" stroke="black" signature="MLLLZ" d="M189.917 311.962 L439.198 311.962 L439.198 98.226 L189.917 98.226 Z"/>
    <path id="path4815" stroke-width="0.819" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M189.917 105.86 L189.917 303.854 "/>
    <path id="path4817" stroke-width="0.819" stroke="#000000" clip-path="url(#clipPath1)" fill="none" signature="ML" d="M189.917 105.86 L186.104 105.86 "/>
@@ -465,11 +465,11 @@
    <text id="text5673" font-weight="normal" font-family="Helvetica" font-size="8.0" y="354.543" x="119.26" svgx:width="302.0" svgx:fontName="ENOOGH+WrrsvhAdvTTb5929f4c" clip-path="url(#clipPath1)" fill="#000000" stroke="none" xmlns:svgx="http://www.xml-cml.org/schema/svgx">t</text>
   </g>
   <g fill="orange">
-   <circle fill="none" stroke="#000000" stroke-width="3.277" cx="314.797" cy="133.054" r="1.206" id="circle.337"/>
-   <circle fill="none" stroke="#000000" stroke-width="3.277" cx="235.675" cy="303.853" r="1.206" id="circle.342"/>
-   <circle fill="none" stroke="#000000" stroke-width="3.277" cx="299.545" cy="263.777" r="1.206" id="circle.347"/>
-   <circle fill="none" stroke="#000000" stroke-width="3.277" cx="325.282" cy="179.809" r="1.206" id="circle.352"/>
-   <circle fill="none" stroke="#000000" stroke-width="3.277" cx="314.797" cy="160.249" r="1.206" id="circle.357"/>
+   <circle fill="none" stroke="#000000" stroke-width="3.277" cx="314.797" cy="133.054" r="1.206" id="circle.336"/>
+   <circle fill="none" stroke="#000000" stroke-width="3.277" cx="235.675" cy="303.853" r="1.206" id="circle.341"/>
+   <circle fill="none" stroke="#000000" stroke-width="3.277" cx="299.545" cy="263.777" r="1.206" id="circle.346"/>
+   <circle fill="none" stroke="#000000" stroke-width="3.277" cx="325.282" cy="179.809" r="1.206" id="circle.351"/>
+   <circle fill="none" stroke="#000000" stroke-width="3.277" cx="314.797" cy="160.249" r="1.206" id="circle.356"/>
   </g>
   <g class="pathAnnotation NYI"/>
  </g>

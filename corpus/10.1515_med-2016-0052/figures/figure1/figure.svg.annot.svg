@@ -3,7 +3,7 @@
  <g>
   <g stroke="pink">
    <path id="path10093" stroke-width="2.0" fill="#ffffff" clip-path="url(#clipPath2)" stroke="black" signature="MLLLZ" d="M87.468 389.079 L289.419 389.079 L289.419 534.966 L87.468 534.966 Z"/>
-   <path id="path10095" stroke-width="2.0" stroke="#ffffff" clip-path="url(#clipPath2)" fill="none" signature="MLLLZ" d="M87.468 389.079 L289.419 389.079 L289.419 534.966 L87.468 534.966 Z"/>
+   <path id="path10095" d="M87.468 389.079 L289.419 389.079 L289.419 534.966 L87.468 534.966 Z" stroke-width="2.0" stroke="#ffffff" clip-path="url(#clipPath2)" fill="none" signature="MLLLZ"/>
    <path id="path10097" stroke-width="4.0" stroke="#eaf1f3" clip-path="url(#clipPath2)" fill="none" signature="ML" d="M87.468 393.296 L289.419 393.296 "/>
    <path id="path10099" stroke-width="4.0" stroke="#eaf1f3" clip-path="url(#clipPath2)" fill="none" signature="ML" d="M87.468 420.787 L289.419 420.787 "/>
    <path id="path10101" stroke-width="4.0" stroke="#eaf1f3" clip-path="url(#clipPath2)" fill="none" signature="ML" d="M87.468 448.277 L289.419 448.277 "/>
@@ -180,29 +180,29 @@
    <text id="text10459" font-weight="normal" font-family="Helvetica" svgx:width="500.0" svgx:fontName="SWHEEG+ArialMT" clip-path="url(#clipPath10)" fill="#000000" stroke="none" x="250.793" y="385.653" font-size="6.799" xmlns:svgx="http://www.xml-cml.org/schema/svgx">s</text>
   </g>
   <g fill="orange">
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="233.547" cy="457.337" r="1.359" id="circle.8"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="205.226" cy="492.012" r="1.375" id="circle.9"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="122.082" cy="499.978" r="1.359" id="circle.10"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="197.045" cy="466.865" r="1.359" id="circle.11"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="151.732" cy="446.559" r="1.359" id="circle.12"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="200.052" cy="477.642" r="1.375" id="circle.13"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="195.506" cy="507.163" r="1.359" id="circle.14"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="169.563" cy="484.515" r="1.375" id="circle.15"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="191.381" cy="463.272" r="1.375" id="circle.16"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="215.296" cy="482.64" r="1.375" id="circle.17"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="187.605" cy="485.608" r="1.375" id="circle.18"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="152.92" cy="461.866" r="1.375" id="circle.19"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="194.947" cy="437.5" r="1.359" id="circle.20"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="158.095" cy="519.658" r="1.375" id="circle.21"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="150.753" cy="524.813" r="1.359" id="circle.22"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="176.766" cy="463.897" r="1.359" id="circle.23"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="153.759" cy="473.425" r="1.375" id="circle.24"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="205.576" cy="455.618" r="1.359" id="circle.25"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="227.883" cy="496.229" r="1.375" id="circle.26"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="163.899" cy="475.143" r="1.359" id="circle.27"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="238.652" cy="496.229" r="1.375" id="circle.28"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="193.409" cy="481.703" r="1.359" id="circle.29"/>
-   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="198.513" cy="449.371" r="1.375" id="circle.30"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="233.547" cy="457.337" r="1.359" id="circle.7"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="205.226" cy="492.012" r="1.375" id="circle.8"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="122.082" cy="499.978" r="1.359" id="circle.9"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="197.045" cy="466.865" r="1.359" id="circle.10"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="151.732" cy="446.559" r="1.359" id="circle.11"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="200.052" cy="477.642" r="1.375" id="circle.12"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="195.506" cy="507.163" r="1.359" id="circle.13"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="169.563" cy="484.515" r="1.375" id="circle.14"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="191.381" cy="463.272" r="1.375" id="circle.15"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="215.296" cy="482.64" r="1.375" id="circle.16"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="187.605" cy="485.608" r="1.375" id="circle.17"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="152.92" cy="461.866" r="1.375" id="circle.18"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="194.947" cy="437.5" r="1.359" id="circle.19"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="158.095" cy="519.658" r="1.375" id="circle.20"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="150.753" cy="524.813" r="1.359" id="circle.21"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="176.766" cy="463.897" r="1.359" id="circle.22"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="153.759" cy="473.425" r="1.375" id="circle.23"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="205.576" cy="455.618" r="1.359" id="circle.24"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="227.883" cy="496.229" r="1.375" id="circle.25"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="163.899" cy="475.143" r="1.359" id="circle.26"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="238.652" cy="496.229" r="1.375" id="circle.27"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="193.409" cy="481.703" r="1.359" id="circle.28"/>
+   <circle fill="none" stroke="#1a466e" stroke-width="4.0" cx="198.513" cy="449.371" r="1.375" id="circle.29"/>
   </g>
   <g class="pathAnnotation NYI"/>
  </g>

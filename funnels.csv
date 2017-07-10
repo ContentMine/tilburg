@@ -1,33 +1,45 @@
-DOI,serial_no,author_num,plot,chars,author_title,notes
-10.1186_s12885-016-2685-3.pdf,1,Fig. 4, Vector,codepoints, Filled funnel plot of log relative risk vs. standard error of log relative risks,
-10.1186_s12889-016-3083-0.pdf,1,,,,,
-10.1186_s13027-016-0058-9.pdf,1,,,,,
-10.1186_s40064-016-3064-x.pdf,1,,,,,
-10.1515_med-2016-0052.pdf,1,,,,,
-10.1515_med-2016-0099.pdf,1,,,,,
-10.1590_S1518-8787.2016050006236.pdf,1,,,,,
-10.21053_ceo.2016.9.1.1.pdf,1,,,,,
-10.2147_AMEP.S116699.pdf,1,,,,,
-10.2147_BCTT.S94617.pdf,1,,,,,
-10.2147_NDT.S125367.pdf,1,,,,,
-10.2147_NDT.S126356.pdf,1,,,,,
-10.2147_OTT.S101858.pdf,1,,,,,
-10.2147_OTT.S104775.pdf,1,,,,,
-10.2147_OTT.S106345.pdf,1,,,,,
-10.2147_OTT.S107595.pdf,1,,,,,
-10.2147_OTT.S109540.pdf,1,,,,,
-10.2147_OTT.S118481.pdf,1,,,,,
-10.2147_OTT.S122774.pdf,1,,,,,
-10.2147_OTT.S124417.pdf,1,,,,,
-10.2147_OTT.S94348.pdf,1,Figure 3(a?),Bitmap,Outline,IL-6-174G>C;G vs C,
-10.2147_OTT.S94348.pdf,2,Figure 3(b?),Bitmap,Outline,IL-6-592G>C;G vs C,
-10.2147_OTT.S94348.pdf,3,Figure 3(c?),Bitmap,Outline,IL-6-597G>C;G vs C,
-10.2147_OTT.S95258.pdf,1,,,,,
-10.2147_OTT.S97436.pdf,1,,,,,
-10.2147_OTT.S98923.pdf,1,,,,,
-10.2147_OTT.S99713.pdf,1,,,,,
-10.3349_ymj.2016.57.5.1260.pdf,1,,,,,
-10.3390_ijerph13050458.pdf,1,,,,,
-10.3961_jpmph.16.037.pdf,1,,,,,
-10.5114_aoms.2016.61916.pdf,1,,,,,
-10.5812_ircmj.40061.pdf,1,,,,,
+DOI;page_no;fig_no;CSV points;chars;notes;title
+10.1186_s12885-016-2685-3.pdf;p7;Fig. 4;24;;;Filled funnel plot of log relative risk vs. standard error of log relative risks
+10.1186_s12889-016-3083-0.pdf;p6;Fig.3;5;;;Funnel plot
+10.1186_s13027-016-0058-9.pdf;p5;Fig.3;22 double;;;"The funnel plot of using a mixed-effects summary estimates in 22 articles (P-value of Egger test =0.165). LogOR: log odds ratio; s.e.of"
+10.1186_s40064-016-3064-x.pdf;p8;Fig.6 a;23;;;Begg’s funnel plot for publication bias of the correlation between HIF-1? expression and a overall survival
+10.1186_s40064-016-3064-x.pdf;p8;Fig.6 b;21;;;Begg’s funnel plot for publication bias of the correlation between HIF-1? expression and a overall survival
+10.1186_s40064-016-3064-x.pdf;p8;Fig.6 c;19;;;Begg’s funnel plot for publication bias of the correlation between HIF-1? expression and a overall survival
+10.1515_med-2016-0052.pdf;p4;Figure 2;23;;;The Begg’s funnel plots showe no significant publication bias under dominant model (GG+AG vs AA).. 
+10.1515_med-2016-0052.pdf;p4;Figure 4;23;;;The Begg’s funnel plots showe no significant publication bias homozygous genetic model (GG vs AA).
+10.1515_med-2016-0052.pdf;p5;Figure 6;23;;;The Begg’s funnel plots showe no significant publication bias under recessive genetic model(GG vs AG+AA)
+10.1515_med-2016-0099.pdf;p6;Figure 7 A;9;;;Funnel plot for evaluation the publication bias.
+10.1515_med-2016-0099.pdf;p6;Figure 7 B;13;;;Funnel plot for evaluation the publication bias.
+10.1515_med-2016-0099.pdf;p6;Figure 7 C;10;;;Funnel plot for evaluation the publication bias.
+10.1515_med-2016-0099.pdf;p6;Figure 7 D;8;;;Funnel plot for evaluation the publication bias.
+10.1590_S1518-8787.2016050006236.pdf;p6;Figure 3;NONE?;;;Funnel chart: prevalence of hypertension in each study by the standard deviation of the studies.
+10.21053_ceo.2016.9.1.1.pdf;p4;Fig 3;18;;;Funnel plot for body mass index, neck circumference, waist circumference, and waist-hip ratio. SE, standard error.
+10.21053_ceo.2016.9.1.1.pdf;p4;Fig 3;13;;;Funnel plot for body mass index, neck circumference, waist circumference, and waist-hip ratio. SE, standard error.
+10.21053_ceo.2016.9.1.1.pdf;p4;Fig 3;14;;;Funnel plot for body mass index, neck circumference, waist circumference, and waist-hip ratio. SE, standard error.
+10.21053_ceo.2016.9.1.1.pdf;p4;Fig 3;9;;;Funnel plot for body mass index, neck circumference, waist circumference, and waist-hip ratio. SE, standard error.
+10.2147_AMEP.S116699.pdf; ;;;Bitmap;;
+10.2147_BCTT.S94617.pdf;p6;Figure 7;7;;;Funnel plot to evaluate publication bias.
+10.2147_NDT.S125367.pdf;;;;Bitmap;;
+10.2147_NDT.S126356.pdf;;;;Bitmap;;
+10.2147_OTT.S101858.pdf;;;;Bitmap;;
+10.2147_OTT.S104775.pdf;;;;Bitmap;;
+10.2147_OTT.S106345.pdf;;;;Bitmap;;
+10.2147_OTT.S107595.pdf;;;;Bitmap;;
+10.2147_OTT.S109540.pdf;;;;Bitmap;;
+10.2147_OTT.S118481.pdf;;;;Bitmap;;
+10.2147_OTT.S122774.pdf;;;;Bitmap;;
+10.2147_OTT.S124417.pdf;;;;Bitmap;;
+10.2147_OTT.S94348.pdf;;;;Bitmap;;
+10.2147_OTT.S94348.pdf;;;;Bitmap;;
+10.2147_OTT.S94348.pdf;;;;Bitmap;;
+10.2147_OTT.S95258.pdf;;;;Bitmap;;
+10.2147_OTT.S97436.pdf;;;;Bitmap;;
+10.2147_OTT.S98923.pdf;;;;Bitmap;;
+10.2147_OTT.S99713.pdf;;;;Bitmap;;
+10.3349_ymj.2016.57.5.1260.pdf;p10;Figure 7;24;;;Funnel plot of overall trials, RCTs and non-RCTs (p-value=0.359). RCTs, randomized controlled trials.
+10.3349_ymj.2016.57.5.1260.pdf;p10;Figure 8;12;;;Funnel plot of RCTs (p-value=0.837). RCTs, randomized controlled trials.
+10.3390_ijerph13050458.pdf;p20 ;Figure 24;15;;;Begg’s funnel plot of T2238C polymorphism for the publication bias test (C vs. T).
+10.3961_jpmph.16.037.pdf;;;;Bitmap;;
+10.5114_aoms.2016.61916.pdf;p7;Figure 4A;5;;;
+10.5114_aoms.2016.61916.pdf;p7;Figure 4B;4;;;
+10.5812_ircmj.40061.pdf;p11;Figure 11;30 double;;;
